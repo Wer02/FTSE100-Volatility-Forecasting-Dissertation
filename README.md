@@ -4,4 +4,6 @@ This notebook contains the code used for the dissertation on evaluating the vola
 
 The analysis compares the XGBoost model against the GARCH(1,1) model for forecasting the realised volatility of the FTSE 100 index. The analysis additionally incorporates the use of additional features to evaluate the forecasting capabilities of the XGBoost model, using the features of basic returns, lagged volatility, lagged volume, unemployment rate, GDP rate and social media post volume.
 
-The models are evaluated using MAE, RMSE and Diebold-Mariano tests. 
+The models are evaluated using MAE, RMSE and Diebold-Mariano tests.
+
+The datasets used for this analysis are also contained within a zip file in this notebook. 
